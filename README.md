@@ -25,5 +25,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0x3xploit&show_icons=true&locale=en&layout=compact" alt="0x3xploit" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0x3xploit&show_icons=true&locale=en" alt="0x3xploit" /></p>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)

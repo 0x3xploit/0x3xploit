@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pratham Naik</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=0x3xploit&label=Profile%20views&color=0e75b6&style=flat" alt="0x3xploit" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0x3xploit" alt="0x3xploit" /></a> </p>
-
 - 🌱 I’m currently learning **Exploit Development Reverse Engineering and Malware analysis**
 
 - 📝 I regularly write articles on [Reverse engineering](Reverse engineering)
@@ -30,4 +26,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0x3xploit&show_icons=true&locale=en" alt="0x3xploit" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0x3xploit&" alt="0x3xploit" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pratham Naik</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A CTF player from India</h3>
 
 - 🌱 I’m currently learning **Exploit Development Reverse Engineering and Malware analysis**
 
